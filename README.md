@@ -6,7 +6,7 @@
 
 ____
 
-<h1 align="left" id="macropower-title">Qiwi_pay_bot</h1>
+<h1 align="left" id="macropower-title">Телеграм бот для приема платежей на qiwi кошелек</h1>
 
 ____
 
